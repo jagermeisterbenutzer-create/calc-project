@@ -4,7 +4,9 @@
   "description": "This project, `calc-project`, aims to provide a robust calculation framework for various mathematical operations. It is designed with simplicity and scalability in mind.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "backend-start": "node index.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -13,6 +15,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/jagermeisterbenutzer-create/calc-project/issues"
