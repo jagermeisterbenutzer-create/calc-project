@@ -2,41 +2,50 @@
 
 ## Overview
 
-This project, `calc-project`, aims to provide a robust calculation framework for various mathematical operations. It is designed with simplicity and scalability in mind.
+`calc-project` serves as a flexible framework for robust calculation tasks across varied mathematical domains. Its core objectives are simplicity and scalability.
 
 ## Installation
 
-To set up the project locally, follow these steps:
+Follow the steps below to install the project:
 
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-   ```
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/jagermeisterbenutzer-create/calc-project.git
+    ```
+
 2. Navigate to the project directory:
-   ```bash
-   cd calc-proj
-   ```
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
+
+    ```bash
+    cd calc-proj
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    npm install
+    ```
 
 ## Usage
 
-After installation, you can start using the project by running:
-```bash
-npm start
-```
+Here’s how you can use `calc-project`:
 
-You can also run the tests to verify the implementation:
-```bash
-npm test
-```
+- **Start the application:**
+
+    ```bash
+    npm start
+    ```
+
+- **Run the tests to ensure functionality:**
+
+    ```bash
+    npm test
+    ```
 
 ## Contributing
 
-We welcome contributions to enhance this project. Feel free to fork the repository and submit pull requests.
+We encourage contributions! Fork the repository, create a feature branch, and open a pull request for review. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is distributed under the terms of the [MIT License](LICENSE).
